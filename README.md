@@ -12,7 +12,7 @@
 
 <a href="https://github.com/IsaiasPaulinoSoaresDaSilva">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=26&pause=1200&color=00F3FF&center=true&vCenter=true&width=760&lines=Construindo+ideias+,+tranformando+vidas;Python+%2B+TypeScript+%2B+Vue+no+dia+a+dia;Do+prot%C3%B3tipo+ao+produto%2C+com+c%C3%B3digo+leg%C3%ADvel;Sempre+aprendendo+algo+novo+%E2%80%94+hoje%2C+voz+e+agentes"
+    src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=26&pause=1200&color=00F3FF&center=true&vCenter=true&width=760&lines=Construindo+ideias%2C+transformando+vidas;Python+%2B+TypeScript+%2B+Vue+no+dia+a+dia;Do+prot%C3%B3tipo+ao+produto%2C+com+c%C3%B3digo+leg%C3%ADvel;Sempre+aprendendo+algo+novo+%E2%80%94+hoje%2C+voz+e+agentes"
     alt="Typing SVG"
   />
 </a>
@@ -75,26 +75,12 @@ class Isaias:
 
 ## `>` Números
 
-<!-- Os dois cards abaixo vêm da instância pública do github-readme-stats, que
-     vive estourando o limite da API do GitHub e responde 503 em horários de pico.
-     Solução definitiva: suba a sua própria instância (é grátis, 5 min) seguindo
-     https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
-     e troque "github-readme-stats.vercel.app" pelo domínio da sua instância. -->
+<!-- Os cards de estatísticas e de linguagens do github-readme-stats foram removidos:
+     a instância pública responde 503 para qualquer usuário há dias. Se quiser
+     recuperá-los com o visual original, suba a sua própria instância (grátis, ~5 min):
+     https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance -->
 
 <div align="center">
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=IsaiasPaulinoSoaresDaSilva&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=050914&title_color=00F3FF&text_color=CFE6FF&icon_color=BC13FE&ring_color=FF7A3D"
-  alt="Estatísticas do GitHub"
-/>
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiasPaulinoSoaresDaSilva&layout=compact&langs_count=8&hide_border=true&bg_color=050914&title_color=00F3FF&text_color=CFE6FF"
-  alt="Linguagens mais usadas"
-/>
-
-<br/>
 
 <img
   src="https://streak-stats.demolab.com?user=IsaiasPaulinoSoaresDaSilva&hide_border=true&background=050914&stroke=1B2942&ring=00F3FF&fire=FF7A3D&currStreakLabel=00F3FF&currStreakNum=CFE6FF&sideNums=CFE6FF&sideLabels=6F8BB0&dates=6F8BB0"
@@ -118,23 +104,59 @@ class Isaias:
 
 ## `>` Projetos em destaque
 
-<div align="center">
+<!-- Cards montados com badges do shields.io: os dados (linguagem, último commit,
+     licença, tamanho) são consultados na API do GitHub a cada carregamento. -->
 
-<a href="https://github.com/IsaiasPaulinoSoaresDaSilva/Baruk">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsaiasPaulinoSoaresDaSilva&repo=Baruk&hide_border=true&bg_color=050914&title_color=00F3FF&text_color=CFE6FF&icon_color=BC13FE" alt="Baruk"/>
-</a>
-<a href="https://github.com/IsaiasPaulinoSoaresDaSilva/keruv">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsaiasPaulinoSoaresDaSilva&repo=keruv&hide_border=true&bg_color=050914&title_color=00F3FF&text_color=CFE6FF&icon_color=BC13FE" alt="keruv"/>
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/IsaiasPaulinoSoaresDaSilva/predis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsaiasPaulinoSoaresDaSilva&repo=predis&hide_border=true&bg_color=050914&title_color=00F3FF&text_color=CFE6FF&icon_color=BC13FE" alt="PreDis"/>
-</a>
-<a href="https://github.com/IsaiasPaulinoSoaresDaSilva/Quantum-Criptography-BB84">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsaiasPaulinoSoaresDaSilva&repo=Quantum-Criptography-BB84&hide_border=true&bg_color=050914&title_color=00F3FF&text_color=CFE6FF&icon_color=BC13FE" alt="Quantum Cryptography BB84"/>
-</a>
+### 🧠 [Baruk](https://github.com/IsaiasPaulinoSoaresDaSilva/Baruk)
 
-</div>
+Assistente pessoal de IA local: painel web, voz e roteamento híbrido entre modelos.
+
+<img src="https://img.shields.io/github/languages/top/IsaiasPaulinoSoaresDaSilva/Baruk?style=flat-square&labelColor=050914&color=00F3FF" alt=""/>
+<img src="https://img.shields.io/github/license/IsaiasPaulinoSoaresDaSilva/Baruk?style=flat-square&labelColor=050914&color=BC13FE&label=licen%C3%A7a" alt=""/>
+<img src="https://img.shields.io/github/last-commit/IsaiasPaulinoSoaresDaSilva/Baruk?style=flat-square&labelColor=050914&color=2F7BFF&label=%C3%BAltimo%20commit" alt=""/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ [Keruv](https://github.com/IsaiasPaulinoSoaresDaSilva/keruv)
+
+Plataforma open source de observabilidade em segurança de dados.
+
+<img src="https://img.shields.io/github/languages/top/IsaiasPaulinoSoaresDaSilva/keruv?style=flat-square&labelColor=050914&color=00F3FF" alt=""/>
+<img src="https://img.shields.io/github/license/IsaiasPaulinoSoaresDaSilva/keruv?style=flat-square&labelColor=050914&color=BC13FE&label=licen%C3%A7a" alt=""/>
+<img src="https://img.shields.io/github/last-commit/IsaiasPaulinoSoaresDaSilva/keruv?style=flat-square&labelColor=050914&color=2F7BFF&label=%C3%BAltimo%20commit" alt=""/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌊 [PreDis](https://github.com/IsaiasPaulinoSoaresDaSilva/predis)
+
+Previsão de enchentes no Brasil com dados do INMET/ANA, modelo de ML e dashboard.
+
+<img src="https://img.shields.io/github/languages/top/IsaiasPaulinoSoaresDaSilva/predis?style=flat-square&labelColor=050914&color=00F3FF" alt=""/>
+<img src="https://img.shields.io/github/languages/code-size/IsaiasPaulinoSoaresDaSilva/predis?style=flat-square&labelColor=050914&color=6F8BB0&label=c%C3%B3digo" alt=""/>
+<img src="https://img.shields.io/github/last-commit/IsaiasPaulinoSoaresDaSilva/predis?style=flat-square&labelColor=050914&color=2F7BFF&label=%C3%BAltimo%20commit" alt=""/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 [Quantum BB84](https://github.com/IsaiasPaulinoSoaresDaSilva/Quantum-Criptography-BB84)
+
+Simulador de distribuição quântica de chaves, com ataque *intercept-resend* e ruído.
+
+<img src="https://img.shields.io/github/languages/top/IsaiasPaulinoSoaresDaSilva/Quantum-Criptography-BB84?style=flat-square&labelColor=050914&color=00F3FF" alt=""/>
+<img src="https://img.shields.io/github/languages/code-size/IsaiasPaulinoSoaresDaSilva/Quantum-Criptography-BB84?style=flat-square&labelColor=050914&color=6F8BB0&label=c%C3%B3digo" alt=""/>
+<img src="https://img.shields.io/github/last-commit/IsaiasPaulinoSoaresDaSilva/Quantum-Criptography-BB84?style=flat-square&labelColor=050914&color=2F7BFF&label=%C3%BAltimo%20commit" alt=""/>
+
+</td>
+</tr>
+</table>
 
 <details>
 <summary><b>🔭 Ver mais projetos</b></summary>
