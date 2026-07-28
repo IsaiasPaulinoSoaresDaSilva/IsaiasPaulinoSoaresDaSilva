@@ -12,7 +12,7 @@
 
 <a href="https://github.com/IsaiasPaulinoSoaresDaSilva">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=26&pause=1200&color=00F3FF&center=true&vCenter=true&width=760&lines=Construindo+assistentes+de+IA+que+rodam+localmente;Python+%2B+TypeScript+%2B+Vue+no+dia+a+dia;Do+prot%C3%B3tipo+ao+produto%2C+com+c%C3%B3digo+leg%C3%ADvel;Sempre+aprendendo+algo+novo+%E2%80%94+hoje%2C+voz+e+agentes"
+    src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=26&pause=1200&color=00F3FF&center=true&vCenter=true&width=760&lines=Construindo+ideias+,+tranformando+vidas;Python+%2B+TypeScript+%2B+Vue+no+dia+a+dia;Do+prot%C3%B3tipo+ao+produto%2C+com+c%C3%B3digo+leg%C3%ADvel;Sempre+aprendendo+algo+novo+%E2%80%94+hoje%2C+voz+e+agentes"
     alt="Typing SVG"
   />
 </a>
